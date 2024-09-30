@@ -34,15 +34,16 @@
 
 2. **Create Virtual Environment(Optional)**:
 
+   ```bash
    python -m venv venv
-   source venv/bin/activate  #
-   Windows:
-   venv\Scripts\activate
+   source venv/bin/activate #on Window       use `venv\Scripts\activate`
+   ```
 
 3. **Install Dependencies**:
    
-   pip install -r 
-   requirements.txt
+   ```bash
+   pip install -r requirements.txt
+   ```
 
 4. **Run the Bot**
 
@@ -70,14 +71,14 @@
 
 ## 📜 License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## ✉️ Contact
 
 For questions or feedback, feel free to contact me:
 
-    Email: tanusamadhiya9@gmail.com
-    GitHub: tanusamadhiya
+   -**Email**: tanusamadhiya9@gmail.com
+   -**GitHub**: [tanusamadhiya](https://GitHub.com/tanusamadhiya)
 
 ⭐ Show Your Support
 If you find this project helpful, please consider giving it a star on GitHub! ⭐
